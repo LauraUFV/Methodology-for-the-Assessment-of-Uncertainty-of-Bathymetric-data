@@ -1,4 +1,4 @@
-# Methodology-for-the-Assessment-of-Uncertainty-of-Bathymetric-data
+# MAIB - Methodology for the Assessment of Uncertainty of Bathymetric data
 
 
   # Setting the data
